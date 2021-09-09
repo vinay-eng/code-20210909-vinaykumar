@@ -1,0 +1,38 @@
+[
+    {
+        "min_value" : 0,
+        "max_value" : 18.4,
+        "BMI_category" : "Underweight",
+        "Health_risk" : "Malnutrition risk"
+    },
+    {
+        "min_value" : 18.5,
+        "max_value" : 24.9,
+        "BMI_category" : "Normal weight",
+        "Health_risk" : "Low risk"
+    },
+    {
+        "min_value" : 25,
+        "max_value" : 29.9,
+        "BMI_category" : "Overweight",
+        "Health_risk" : "Enhanced risk"
+    },
+    {
+        "min_value" : 30,
+        "max_value" : 34.9,
+        "BMI_category" : "Moderately obese",
+        "Health_risk" : "Medium risk"
+    },
+    {
+        "min_value" : 35,
+        "max_value" : 39.9,
+        "BMI_category" : "Severely obese",
+        "Health_risk" : "High risk"
+    },
+    {
+        "min_value" : 40,
+        "max_value" : 999,
+        "BMI_category" : "Very severely obese",
+        "Health_risk" : "Very high risk"
+    }
+]

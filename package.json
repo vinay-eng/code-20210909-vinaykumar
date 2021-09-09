@@ -1,0 +1,16 @@
+{
+  "name": "vamstar-assignment",
+  "version": "1.0.0",
+  "description": "This is Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
