@@ -1,6 +1,5 @@
 const assert = require('chai').assert;
 
-const mocha = require('mocha')
 
 const {calculate_BMI, determine_BMI_category_risk} = require('../helper')
 const BMI_category_and_healthRisk = require('../BMI_category.json')
